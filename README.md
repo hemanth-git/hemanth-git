@@ -12,7 +12,7 @@ Azure ML Studio.
 Planning
 - MLOps: Model Building, Tracking, Serving, Monitoring.
 
-[Download Resume](https://raw.githubusercontent.com/hemanth-git/hemanth-git/main/your-resume.pdf)
+[Download Resume](https://raw.githubusercontent.com/hemanth-git/hemanth-git/main/folder/Hemanth_Resume.pdf)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/hemanthkakarla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hemanthkakarla" height="30" width="40" /></a>
